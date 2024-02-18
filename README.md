@@ -1,13 +1,13 @@
 # conv_matlab
 Matlab conv implementation functions
 
-#### myLaplacian( input)
+## myLaplacian( input)
 
 A function implementation accepts a (0-255) greyscale image  matrix and returns an image that has been sharpened using the Laplacian high-pass sharpening method. 
 
 The Laplacian kernel detects edges in all directions.
 
-#### myUnsharp( input,  k, filt_size)
+## myUnsharp( input,  k, filt_size)
 
 A function implementation sharpens images using the high-boost method.
 
